@@ -1,1 +1,1 @@
-# CurrencyPredictBot
+# CurrencyStocksPredictBot
