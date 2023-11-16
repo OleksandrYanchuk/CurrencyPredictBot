@@ -1,0 +1,282 @@
+[
+  {
+    "country": "Andorra",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Australia",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Austria",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Belgium",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "British Indian O. Terr.",
+    "currency": "GBP Pound sterling",
+    "pair": "GBP/USD"
+  },
+  {
+    "country": "China",
+    "currency": "CNY Chinese yuan renminbi (RMB)",
+    "pair": "USD/CNY"
+  },
+  {
+    "country": "Christmas Island",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Croatia",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Cyprus",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Estonia",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "European Union",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Finland",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "France",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "France, Metropolitan",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "French Guiana",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "French Southern Terr.",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Germany",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Great Britain - UK",
+    "currency": "GBP Pound sterling",
+    "pair": "GBP/USD"
+  },
+  {
+    "country": "Greece",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Guadaloupe",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Heard and McDonald Isl.",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Hong Kong",
+    "currency": "HKD Hong Kong dollar",
+    "pair": "USD/HKD"
+  },
+  {
+    "country": "India",
+    "currency": "INR Indian rupee",
+    "pair": "USD/INR"
+  },
+  {
+    "country": "Indonesia",
+    "currency": "IDR Indonesian rupiah",
+    "pair": "USD/IDR"
+  },
+  {
+    "country": "Ireland",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Italy",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Japan",
+    "currency": "JPY Japanese yen",
+    "pair": "USD/JPY"
+  },
+  {
+    "country": "Kiribati",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Latvia",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Luxembourg",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Malaysia",
+    "currency": "MYR Malaysian ringgit",
+    "pair": "USD/MYR"
+  },
+  {
+    "country": "Malta",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Martinique",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Mayotte",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Mexico",
+    "currency": "MXN Mexican peso",
+    "pair": "USD/MXN"
+  },
+  {
+    "country": "Monaco",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Montenegro",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Nauru",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Netherlands",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Norfolk Island",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Philippines",
+    "currency": "PHP Philippine peso",
+    "pair": "USD/PHP"
+  },
+  {
+    "country": "Portugal",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Reunion",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Russian Federation",
+    "currency": "RUB Russian ruble",
+    "pair": "USD/RUB"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "San Marino",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Slovakia",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Slovenia",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "South Africa",
+    "currency": "ZAR South African rand",
+    "pair": "USD/ZAR"
+  },
+  {
+    "country": "South Georgia and South Sandwich Islands",
+    "currency": "GBP Pound sterling",
+    "pair": "GBP/USD"
+  },
+  {
+    "country": "Soviet Union",
+    "currency": "RUB Russian ruble",
+    "pair": "USD/RUB"
+  },
+  {
+    "country": "Spain",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  },
+  {
+    "country": "Thailand",
+    "currency": "THB Thai baht",
+    "pair": "USD/THB"
+  },
+  {
+    "country": "Tuvalu",
+    "currency": "AUD Australian dollar",
+    "pair": "AUD/USD"
+  },
+  {
+    "country": "Vatican City State",
+    "currency": "EUR Euro",
+    "pair": "EUR/USD"
+  }
+]
