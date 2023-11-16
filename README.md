@@ -42,6 +42,9 @@ pip install -r requirements.txt
 ```python
 python auto_task_start_day.py
 ```
+```python
+python predict_bot.py
+```
 #### 7. In the auto_task_hour.py file, set the time for the script to run
 ```python
 python auto_task_hour.py
